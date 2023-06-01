@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jasonbenedetti.co.uk/sitemap.xml

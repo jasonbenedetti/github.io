@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jason Benedetti",
+    "description": "",
+    "home_page_url": "https://jasonbenedetti.co.uk",
+    "feed_url": "https://jasonbenedetti.co.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jason Benedetti"
+    },
+    "items": [
+        {
+            "id": "https://jasonbenedetti.co.uk/test.html",
+            "url": "https://jasonbenedetti.co.uk/test.html",
+            "title": "Test",
+            "summary": "Hello",
+            "content_html": "<p>Hello</p>\n",
+            "author": {
+                "name": "Jason Benedetti"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-01T09:25:11+01:00",
+            "date_modified": "2023-06-01T09:25:11+01:00"
+        }
+    ]
+}

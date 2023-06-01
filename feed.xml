@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jason Benedetti</title>
+    <link href="https://jasonbenedetti.co.uk/feed.xml" rel="self" />
+    <link href="https://jasonbenedetti.co.uk" />
+    <updated>2023-06-01T09:25:11+01:00</updated>
+    <author>
+        <name>Jason Benedetti</name>
+    </author>
+    <id>https://jasonbenedetti.co.uk</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Jason Benedetti</name>
+        </author>
+        <link href="https://jasonbenedetti.co.uk/test.html"/>
+        <id>https://jasonbenedetti.co.uk/test.html</id>
+
+        <updated>2023-06-01T09:25:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
